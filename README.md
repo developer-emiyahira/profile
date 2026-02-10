@@ -1,4 +1,4 @@
-## EMiyahira-Dev - updated in 1994
+## EMiyahira-Dev - updated in 2024
 
 ### Hello Everyone 👋
 
@@ -6,6 +6,7 @@ I'm Eduardo Miyahira, a developer since 1992.
 
 [![Linkedin: EMiyahira=Dev](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emiyahira-dev-29626a191/)](https://www.linkedin.com/in/emiyahira-dev-29626a191/)
 
+email: developer.emiyahira@gmail.com
 ____
 
 ## ⚡ Technologies
@@ -33,7 +34,6 @@ Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ____
 
@@ -43,15 +43,6 @@ Database:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-____
-
-Cloud:
-![Totvs Cloud](https://img.shields.io/badge/-TotvsCloud-007396?style=flat-square&logo=Totvs)
-![Google Cloud](https://img.shields.io/badge/-GoogleCloud-007396?style=flat-square&logo=GoogleCloud)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
 ____
 
